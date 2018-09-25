@@ -1,0 +1,12 @@
+##Rahul Jain- Passive Frequency Detection Project - 9/25/18 Status Update
+## Last Week's Accomplishments
+
+>Over the last week, I familiarized myself with the project information located on our trello page (https://trello.com/b/YvH3h3Hy/passive-cell-phone-detection) and attempted to model a previous circuit that was developed in the past (https://trello-attachments.s3.amazonaws.com/5a83575b1ca0fdc9acfb754e/5ac3dc5f1f3027bb2f4cc177/22e5c8f179e1d5b849e1f5f12eb5810b/my-lm358-cell-phone-rf-detector.png). 
+
+## This Week's Plan
+
+>Investigate the project information on the trello page and gain a better understanding of how to fully model and test the previous circuit. In the future, I am planning on modeling and testing more circuits that may work better.
+
+## Anything Blocking?
+
+> I was not able to insert the LM358 operational amplifier in LTspice as the built-in library of components does not have this particular operational amplifier. I will research alternate operational amplifiers and see if they will be compatible with our circuit.
